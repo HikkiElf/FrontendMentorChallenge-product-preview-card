@@ -41,11 +41,6 @@ body {
 
 }
 
-.top {
-    
-
-}
-
 .bottom {
     background-color: hsl(0, 0%, 100%);
     padding: 20px;
@@ -60,6 +55,7 @@ body {
 
 #cart-img {
     width: 20px;
+    margin-right: 10px;
 }
 
 .pricing {
