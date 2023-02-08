@@ -53,7 +53,9 @@ body {
 
 #parfume-img {
     width: 100%;
+    content: url('./images/image-product-mobile.jpg');
     display: block;
+    
 }
 
 #cart-img {
